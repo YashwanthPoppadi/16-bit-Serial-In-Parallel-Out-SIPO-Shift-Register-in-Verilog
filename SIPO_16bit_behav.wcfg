@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="SIPO_16bit_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="SIPO_16bit" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="221936000fs"></ZoomStartTime>
+      <ZoomEndTime time="1118936001fs"></ZoomEndTime>
+      <Cursor1Time time="1550000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/SIPO_16bit/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SIPO_16bit/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SIPO_16bit/serial_in" type="logic">
+      <obj_property name="ElementShortName">serial_in</obj_property>
+      <obj_property name="ObjectShortName">serial_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SIPO_16bit/parallel_out" type="array">
+      <obj_property name="ElementShortName">parallel_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">parallel_out[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SIPO_16bit/SIPO0_out" type="array">
+      <obj_property name="ElementShortName">SIPO0_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">SIPO0_out[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/SIPO_16bit/SIPO1_out" type="array">
+      <obj_property name="ElementShortName">SIPO1_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">SIPO1_out[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/SIPO_16bit/SIPO2_out" type="array">
+      <obj_property name="ElementShortName">SIPO2_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">SIPO2_out[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/SIPO_16bit/SIPO3_out" type="array">
+      <obj_property name="ElementShortName">SIPO3_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">SIPO3_out[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/SIPO_16bit/six_bit_out" type="array">
+      <obj_property name="ElementShortName">six_bit_out[5:0]</obj_property>
+      <obj_property name="ObjectShortName">six_bit_out[5:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
