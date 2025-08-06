@@ -1,0 +1,2 @@
+# 16-bit-Serial-In-Parallel-Out-SIPO-Shift-Register-in-Verilog
+Designed and implemented a modular 16-bit Serial-In Parallel-Out (SIPO) shift register using Verilog HDL. The design is composed of four 4-bit SIPO submodules, each constructed from edge-triggered D flip-flops. By leveraging hierarchical and scalable design principles, the project demonstrates effective serial to parellel data conversion.
