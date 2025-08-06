@@ -47,7 +47,7 @@ This design was simulated using **[Tool: Vivado]**.
 
 ### 📸 Sample Waveform
 
-![Waveform](SISO_16bit_behav.wcfg)
+![Waveform](Sim.PNG)
 
 ---
 
