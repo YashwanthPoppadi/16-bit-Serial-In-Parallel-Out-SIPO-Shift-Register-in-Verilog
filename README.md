@@ -47,7 +47,7 @@ This design was simulated using **[Tool: Vivado]**.
 
 ### 📸 Sample Waveform
 
-![Waveform](Sim.PNG)
+![Waveform](Sim.png)
 
 ---
 
